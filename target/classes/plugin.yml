@@ -1,0 +1,7 @@
+name: SeamlessKitPvP
+version: 1.0
+main: net.seamless.main.Main
+author: Snickzz
+commands:
+  spawn:
+    description: Teleport to the spawn location!
